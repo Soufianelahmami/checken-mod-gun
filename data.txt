@@ -47,9 +47,9 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzISgp.webp",
+	 "title": "checken mod gun",
+	 "text": "Imagine a mod for a video game or a whimsical invention in a fictional world that introduces a "Chicken Cannon." This device could be a comical and non-lethal weapon that shoots rubber chickens or cartoonish, squawking chickens instead of traditional ammunition. Here are some ideas to expand on this concept",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdz0e0F.webp",
+	 "title": "checken mod gun",
+	 "text": "The chicken cannon doesn't harm enemies but distracts them by causing confusion. Chickens could be equipped with mini noisemakers or colorful feathers to add to the chaos.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdz0wiP.webp",
+	 "title": "checken mod gun",
+	 "text": "Players can collect different types of chickens with unique abilities. For example, a Bouncy Chicken that rebounds off surfaces, a Magnetic Chicken" that attracts enemies, or a Glider Chicken that hovers for a short period.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdz0jWB.webp",
+	 "title": "checken mod gun",
+	 "text": "Activating a special mode increases the number of chickens fired and intensifies their comedic effects. Picture a screen filled with bouncing, squawking chickens causing mayhem",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdz5T9p.webp",
+	 "title": "checken mod gun",
+	 "text": "An enemy hit by the chicken cannon temporarily transforms into a giant chicken, with reduced combat abilities but increased speed and agility.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdz0Of1.webp",
+	 "title": "checken mod gun",
+	 "text": "Integrate challenges within the game where players must use the chicken cannon creatively. For example, hitting specific targets, solving puzzles with chickens, or achieving goals without directly harming opponents.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
